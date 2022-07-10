@@ -1,0 +1,7 @@
+names==0.3.*
+peewee==3.14.*
+PyQt5==5.15.*
+PyQt5-Qt5==5.15.*
+PyQt5-sip==12.9.*
+PySide2==5.15.*  
+PySide6==6.2.*
